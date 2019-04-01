@@ -25,7 +25,7 @@ SECRET_KEY = 'x4&(ft02jr1r8=-4#w#gxy4v@2)l+_x5)w_fwk5#ondhapng1y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.43.240']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 ASGI_APPLICATION = 'mysite.routing.application'
 # Application definition
