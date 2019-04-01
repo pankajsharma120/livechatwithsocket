@@ -4,7 +4,9 @@ This is simple django based web application based on channel sockets for live ch
 # Dependencies
 
 Redis server - Download and install redis server - https://redis.io/download
+
 django channels - pip install -U channels
+
 channel redis - pip install channels_redis
 
 # Use
