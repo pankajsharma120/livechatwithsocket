@@ -1,5 +1,5 @@
 # livechatwithsocket
-This is simple django based web application based on channel sockets for live chat in group for public. You can modiy `connect` in consumers.py and put rules before `accept` to make this application more specific.
+This is simple django based web application based on channel sockets for live chat in group for public. You can modify `connect` in consumers.py and put rules before `accept` to make this application more specific.
 
 # Dependencies
 
